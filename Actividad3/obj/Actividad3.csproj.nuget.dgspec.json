@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/agustinabustelo/Projects/Actividad3/Actividad3/Actividad3.csproj": {}
+  },
+  "projects": {
+    "/Users/agustinabustelo/Projects/Actividad3/Actividad3/Actividad3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/agustinabustelo/Projects/Actividad3/Actividad3/Actividad3.csproj",
+        "projectName": "Actividad3",
+        "projectPath": "/Users/agustinabustelo/Projects/Actividad3/Actividad3/Actividad3.csproj",
+        "packagesPath": "/Users/agustinabustelo/.nuget/packages/",
+        "outputPath": "/Users/agustinabustelo/Projects/Actividad3/Actividad3/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/agustinabustelo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

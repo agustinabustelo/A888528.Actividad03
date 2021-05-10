@@ -1,0 +1,15 @@
+/Users/agustinabustelo/Projects/Actividad3/Actividad3/bin/Debug/net5.0/Actividad3.deps.json
+/Users/agustinabustelo/Projects/Actividad3/Actividad3/bin/Debug/net5.0/Actividad3.runtimeconfig.json
+/Users/agustinabustelo/Projects/Actividad3/Actividad3/bin/Debug/net5.0/Actividad3.runtimeconfig.dev.json
+/Users/agustinabustelo/Projects/Actividad3/Actividad3/bin/Debug/net5.0/Actividad3.dll
+/Users/agustinabustelo/Projects/Actividad3/Actividad3/bin/Debug/net5.0/ref/Actividad3.dll
+/Users/agustinabustelo/Projects/Actividad3/Actividad3/bin/Debug/net5.0/Actividad3.pdb
+/Users/agustinabustelo/Projects/Actividad3/Actividad3/obj/Debug/net5.0/Actividad3.csprojAssemblyReference.cache
+/Users/agustinabustelo/Projects/Actividad3/Actividad3/obj/Debug/net5.0/Actividad3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agustinabustelo/Projects/Actividad3/Actividad3/obj/Debug/net5.0/Actividad3.AssemblyInfoInputs.cache
+/Users/agustinabustelo/Projects/Actividad3/Actividad3/obj/Debug/net5.0/Actividad3.AssemblyInfo.cs
+/Users/agustinabustelo/Projects/Actividad3/Actividad3/obj/Debug/net5.0/Actividad3.csproj.CoreCompileInputs.cache
+/Users/agustinabustelo/Projects/Actividad3/Actividad3/obj/Debug/net5.0/Actividad3.dll
+/Users/agustinabustelo/Projects/Actividad3/Actividad3/obj/Debug/net5.0/ref/Actividad3.dll
+/Users/agustinabustelo/Projects/Actividad3/Actividad3/obj/Debug/net5.0/Actividad3.pdb
+/Users/agustinabustelo/Projects/Actividad3/Actividad3/obj/Debug/net5.0/Actividad3.genruntimeconfig.cache
