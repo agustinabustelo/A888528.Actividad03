@@ -91,10 +91,6 @@ namespace _888067.Actividad03
             cuenta.Modificar();
         }
 
-        private static void BuscarCuenta()
-        {
-            Cuenta cuenta = PlanDeCuentas.SeleccionarCuenta();
-            cuenta.MostrarDatos();
-        }
+
     }
 }

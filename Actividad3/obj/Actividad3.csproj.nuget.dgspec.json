@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/agustinabustelo/Projects/Actividad3/Actividad3/Actividad3.csproj": {}
+    "/Users/agustinabustelo/Projects/A888528.Actividad03/Actividad3/Actividad3.csproj": {}
   },
   "projects": {
-    "/Users/agustinabustelo/Projects/Actividad3/Actividad3/Actividad3.csproj": {
+    "/Users/agustinabustelo/Projects/A888528.Actividad03/Actividad3/Actividad3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/agustinabustelo/Projects/Actividad3/Actividad3/Actividad3.csproj",
+        "projectUniqueName": "/Users/agustinabustelo/Projects/A888528.Actividad03/Actividad3/Actividad3.csproj",
         "projectName": "Actividad3",
-        "projectPath": "/Users/agustinabustelo/Projects/Actividad3/Actividad3/Actividad3.csproj",
+        "projectPath": "/Users/agustinabustelo/Projects/A888528.Actividad03/Actividad3/Actividad3.csproj",
         "packagesPath": "/Users/agustinabustelo/.nuget/packages/",
-        "outputPath": "/Users/agustinabustelo/Projects/Actividad3/Actividad3/obj/",
+        "outputPath": "/Users/agustinabustelo/Projects/A888528.Actividad03/Actividad3/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

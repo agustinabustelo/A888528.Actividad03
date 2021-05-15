@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +10,7 @@ namespace _888067.Actividad03
     static class PlanDeCuentas
     {
         private static readonly Dictionary<int, Cuenta> DicCuentas;
-        const string Path = @"C:\Users\ifigueroa006\Desktop\Personal\FCE\CAI\Actividad 3\Plan de cuentas.txt";
+        const string Path = @"C:\Users\agustinabustelo\Documents\CAI\Practica\Actividad 3\Plan de cuentas.txt";
 
         static PlanDeCuentas()
         {
